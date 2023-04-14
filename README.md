@@ -14,6 +14,12 @@
 | --- | ------------------- | ------------------------------------------------------- | --------------- | -------- |
 | 1   | Profesioneel design | https://zyro.com/nl/blog/zakelijke-website-voorbeelden/ | HTML & CSS      | No       |
 | 2   | Basic PHP           | https://www.w3schools.com/php/                          | PHP             | No       |
+| --- | ------------------- | ------------------------------------------------------- | --------------- | -------- |
+| 1   | Profesioneel design | https://zyro.com/nl/blog/zakelijke-website-voorbeelden/ | HTML & CSS      | No       |
+| 2   | Basic PHP           | https://www.w3schools.com/php/                          | PHP             | No       |
+| --- | ------------------- | ------------------------------------------------------- | --------------- | -------- |
+| 1   | Profesioneel design | https://zyro.com/nl/blog/zakelijke-website-voorbeelden/ | HTML & CSS      | No       |
+| 2   | Basic PHP           | https://www.w3schools.com/php/                          | PHP             | No       |
 
 ### Leerdoelen
 
