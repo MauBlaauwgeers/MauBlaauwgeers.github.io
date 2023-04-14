@@ -1,6 +1,3 @@
-# Portofolio
-
- - 
 ## Missie 
 
  - Overgaan naar jaar 2.
