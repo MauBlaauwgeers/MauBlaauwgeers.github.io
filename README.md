@@ -10,10 +10,10 @@
 
 ## Doelstellingen
  
-| Doel 1     | Doel 2      | Doel 3     |
-| ------------- | ------------- | -------- |
-| John          | Test1         | NewYork  |
-| Bob           | Test2         | Toronto  |
+| #   | Leerdoelen          | Bron                                                    | Programmeertaal | Afgerond |
+| --- | ------------------- | ------------------------------------------------------- | --------------- | -------- |
+| 1   | Profesioneel design | https://zyro.com/nl/blog/zakelijke-website-voorbeelden/ | HTML & CSS      | No       |
+| 2   | Basic PHP           | https://www.w3schools.com/php/                          | PHP             | No       |
 
 ### Leerdoelen
 
