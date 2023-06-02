@@ -1,0 +1,21 @@
+body .col .hover-effect:hover {
+    background-color: #8c53ff;
+    color: white;
+  }
+
+.chatMe{
+margin-left: -50px;
+margin-top: 65px;
+color: #8c53ff; 
+border-color: #8c53ff;
+
+}
+.myName{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 0;
+  
+    height: 175px;
+    width: 175px;
+}
