@@ -8,7 +8,11 @@ margin-left: -50px;
 margin-top: 65px;
 color: #8c53ff; 
 border-color: #8c53ff;
-
+}
+.buttonReachOut{
+  color: #8c53ff; 
+  border-color: #8c53ff;
+  margin: 3px;
 }
 .myName{
     position: absolute;
@@ -18,4 +22,53 @@ border-color: #8c53ff;
   
     height: 175px;
     width: 175px;
+}
+.input {
+  border: solid 3px #8c53ff;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 50px;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.input-Message {
+  width: 300px;
+  height: 50px;
+  padding: 0px 5px 50px;
+  resize: none;
+  overflow: hidden;
+  border-radius: 10px;
+  border: 3px solid #8c53ff;
+}
+
+.input-Email {
+  width: 300px;
+  margin: 0;
+}
+
+.login-page {
+  background-color: rgba(255, 255, 255, 0.123);
+  backdrop-filter: blur(7px);
+  width: 350px;
+  height: fit-content;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  border: solid 2px #8c53ff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.myPicture{
+  width: 300px;
+  height: 300px;
+}
+
+.projectImg{
+  width: 400px;
+  height: 210px;
 }
