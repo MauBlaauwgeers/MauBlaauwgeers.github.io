@@ -3,26 +3,17 @@ body .col .hover-effect:hover {
     color: white;
   }
 
-.chatMe{
-margin-left: -50px;
-margin-top: 65px;
-color: #8c53ff; 
-border-color: #8c53ff;
-}
+
 .buttonReachOut{
   color: #8c53ff; 
   border-color: #8c53ff;
   margin: 3px;
 }
 .myName{
-    position: absolute;
-    margin-left: 20px;
-    margin-top: 10px;
-    padding: 0;
-  
-    height: 175px;
-    width: 175px;
-}
+
+    height: 200px;
+    width: 200px;
+} 
 .input {
   border: solid 3px #8c53ff;
   border-radius: 6px;
@@ -64,11 +55,11 @@ border-color: #8c53ff;
 }
 
 .myPicture{
-  width: 300px;
-  height: 300px;
+  width: 150px;
+  height: 150px;
 }
 
-.projectImg{
-  width: 400px;
-  height: 210px;
-}
+/* .projectImg{
+  width: 500px;
+  height: 250px;
+} */
